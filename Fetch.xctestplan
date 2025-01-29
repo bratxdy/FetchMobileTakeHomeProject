@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "1826EBEC-34A2-44FB-8C01-471C692B5591",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Fetch.xcodeproj",
+      "identifier" : "23F27E892D43D84600446949",
+      "name" : "Fetch"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Fetch.xcodeproj",
+        "identifier" : "23F27E992D43D84700446949",
+        "name" : "FetchTests"
+      }
+    }
+  ],
+  "version" : 1
+}
