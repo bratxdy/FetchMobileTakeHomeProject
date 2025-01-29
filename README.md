@@ -3,12 +3,11 @@ Take home project for Fetch interview: https://d3jbb8n5wk0qxi.cloudfront.net/tak
 
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-![Simulator Screenshot - iPhone 16 - 2025-01-29 at 12 06 32](https://github.com/user-attachments/assets/f0334e40-d55d-4a83-ad22-099a1f9e2083)
+<img src="https://github.com/user-attachments/assets/f0334e40-d55d-4a83-ad22-099a1f9e2083" width="250">
 
-![simulator_screenshot_84480EB3-5716-467D-AC7C-C5B921408101](https://github.com/user-attachments/assets/78f019b2-fc60-4189-b3fa-3d65b2081599)
+<img src="https://github.com/user-attachments/assets/78f019b2-fc60-4189-b3fa-3d65b2081599" width="250">
 
-![simulator_screenshot_583317B8-F76D-490E-B9BF-64A9A3D6D178](https://github.com/user-attachments/assets/5b55f427-9b49-4483-b884-00fadc675eb3)
-
+<img src="https://github.com/user-attachments/assets/5b55f427-9b49-4483-b884-00fadc675eb3" width="250">
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
