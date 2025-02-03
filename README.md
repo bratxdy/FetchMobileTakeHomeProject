@@ -1,4 +1,4 @@
-# FetchMobileTakeHomeProject
+# MobileTakeHomeProject
 Take home project for Fetch interview: https://d3jbb8n5wk0qxi.cloudfront.net/take-home-project.html
 
 ### Summary: Include screen shots or a video of your app highlighting its features
